@@ -1,1 +1,1 @@
-# MF-PINNs
+# Code for our paper
